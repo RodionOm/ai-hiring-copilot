@@ -1,0 +1,3 @@
+We are looking for an AI Intern to build small-scale AI automations (LLM workflows, prompt engineering, API integrations).
+Support data analysis projects and explore AI tools to improve internal processes.
+Basic Python knowledge required, familiarity with APIs or automation tools is a plus.

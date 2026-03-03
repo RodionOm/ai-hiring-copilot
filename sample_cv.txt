@@ -1,0 +1,4 @@
+Rodion Omelich
+AI-focused student. Skills: Python, Pandas, NumPy, scikit-learn, SQL.
+Built a Telegram automation bot and worked on a NASA dataset hackathon project.
+Interested in LLM workflows, prompt engineering, and API integrations.
