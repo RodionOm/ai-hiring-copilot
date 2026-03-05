@@ -48,7 +48,7 @@ def keyword_coverage_score(cv_text: str, job_keywords: List[str]) -> Tuple[int, 
         "keyword_token_count": len(kw_tokens),
         "overlap_count": len(overlap),
         "overlap_examples": sorted(list(overlap))[:20],
-        "missing_keywords": sorted(list(missing))[:20],
+        "missing_keywords": sorted(list(missing))[:20]
     }
     return score, debug
 
