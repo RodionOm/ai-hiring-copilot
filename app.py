@@ -122,7 +122,6 @@ with right:
         # Summary header
         st.markdown(f"### {pretty_badge(decision)}")
         st.metric("Final Score", combined)
-        st.columns(2)
         m1, m2 = st.columns(2)
         m1.metric("LLM Match Score", llm_score)
         m2.metric("Keyword Coverage Score", kw_score)
